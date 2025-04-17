@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.0
+numpy==1.26.3
+geopandas==0.14.2
+folium==0.15.1
+streamlit-folium==0.15.1
+plotly==5.18.0
+python-dotenv==1.0.1
+earthengine-api==0.1.386
+tensorflow-macos==2.13.0 
