@@ -8,4 +8,8 @@ geojson==3.0.1
 shapely==2.0.2
 fiona==1.9.4
 pyproj==3.6.1
-rtree==1.0.1 
+rtree==1.0.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+Pygments==2.19.1
+rich==14.0.0 
