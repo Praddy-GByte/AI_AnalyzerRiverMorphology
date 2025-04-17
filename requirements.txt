@@ -3,4 +3,9 @@ pandas==2.2.0
 numpy==1.26.3
 folium==0.15.1
 streamlit-folium==0.15.1
-plotly==5.18.0 
+plotly==5.18.0
+geopandas==0.14.2
+shapely==2.0.2
+fiona==1.9.4
+pyproj==3.6.1
+rtree==1.0.1 
