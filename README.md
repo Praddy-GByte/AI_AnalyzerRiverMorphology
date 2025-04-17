@@ -44,4 +44,4 @@ This app is deployed on Streamlit Cloud. Visit the live version at: [Your Stream
 
 ## License
 
-© 2024 River Morphology AI Analyzer | Research and Environmental Monitoring 
+© 2024 River Morphology AI Analyzer | Research and Environmental Monitoring
